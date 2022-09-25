@@ -1,0 +1,162 @@
+{
+    "Cam_folder": "nm",
+    "class": "image",
+    "date_folder": "qr_obj_fv_test_20220428",
+    "filename": "frame_vc1_00.bmp",
+    "raw_filename": "frame_vc2_0.png",
+    "task_attention_area": [
+        {
+            "tags": {
+                "class": "attention-area",
+                "type": "polygon",
+                "xn": "0.00;390.95;502.48;543.37;693.94;838.93;861.24;1433.77;1443.06;1456.08;1472.81;1634.53;1677.28;1775.80;1822.27;1920.00;1920.00;0.00",
+                "yn": "90.18;95.76;134.80;396.90;491.70;538.17;632.97;651.56;597.65;560.48;521.44;512.14;517.72;487.98;391.32;357.86;1080.00;1080.00"
+            }
+        }
+    ],
+    "task_vehicle": [
+        {
+            "tags": {
+                "class": "motorcycle",
+                "height": 270.44,
+                "occluded": "0",
+                "type": "rect",
+                "width": 136.6,
+                "x": 1783.4,
+                "y": 528.15
+            }
+        },
+        {
+            "tags": {
+                "class": "car",
+                "height": 982.14,
+                "occluded": "0",
+                "type": "rect",
+                "width": 544.57,
+                "x": 0.0,
+                "y": 97.86
+            }
+        },
+        {
+            "tags": {
+                "class": "car",
+                "height": 99.24,
+                "occluded": "1",
+                "type": "rect",
+                "width": 193.68,
+                "x": 1439.54,
+                "y": 486.06
+            }
+        },
+        {
+            "tags": {
+                "class": "car",
+                "height": 93.8,
+                "occluded": "1",
+                "type": "rect",
+                "width": 158.19,
+                "x": 1666.74,
+                "y": 482.68
+            }
+        },
+        {
+            "tags": {
+                "class": "car",
+                "height": 71.18,
+                "occluded": "1",
+                "type": "rect",
+                "width": 126.67,
+                "x": 900.43,
+                "y": 489.09
+            }
+        },
+        {
+            "tags": {
+                "class": "car",
+                "height": 94.06,
+                "occluded": "1",
+                "type": "rect",
+                "width": 127.95,
+                "x": 1253.34,
+                "y": 479.77
+            }
+        },
+        {
+            "tags": {
+                "class": "motorcycle",
+                "height": 258.79,
+                "occluded": "2",
+                "type": "rect",
+                "width": 232.27,
+                "x": 575.56,
+                "y": 479.34
+            }
+        },
+        {
+            "tags": {
+                "class": "motorcycle",
+                "height": 260.37,
+                "occluded": "1",
+                "type": "rect",
+                "width": 110.76,
+                "x": 1643.87,
+                "y": 538.22
+            }
+        },
+        {
+            "tags": {
+                "class": "motorcycle",
+                "height": 294.13,
+                "occluded": "0",
+                "type": "rect",
+                "width": 227.23,
+                "x": 1436.49,
+                "y": 503.0
+            }
+        },
+        {
+            "tags": {
+                "class": "car",
+                "height": 303.21,
+                "occluded": "2",
+                "type": "rect",
+                "width": 609.57,
+                "x": 0.0,
+                "y": 496.3
+            }
+        },
+        {
+            "tags": {
+                "class": "car",
+                "height": 290.24,
+                "occluded": "2",
+                "type": "rect",
+                "width": 730.35,
+                "x": 2.8,
+                "y": 450.5
+            }
+        },
+        {
+            "tags": {
+                "class": "car",
+                "height": 279.04,
+                "occluded": "2",
+                "type": "rect",
+                "width": 730.35,
+                "x": 91.08,
+                "y": 432.9
+            }
+        },
+        {
+            "tags": {
+                "class": "car",
+                "height": 269.72,
+                "occluded": "2",
+                "type": "rect",
+                "width": 730.35,
+                "x": 118.96,
+                "y": 410.6
+            }
+        }
+    ]
+}
